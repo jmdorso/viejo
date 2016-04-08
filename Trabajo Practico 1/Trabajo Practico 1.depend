@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1459955146 source:d:\facu\progylab1\trabajo practico 1\dorso.c
+
+1460071220 source:d:\facu\progylab1\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dorso.h"
+
+1459902392 d:\facu\progylab1\trabajo practico 1\dorso.h
+
+1459945732 source:f:\facultad\programacion1\trabajo practico 1\dorso.c
+
+1459945824 source:f:\facultad\programacion1\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dorso.h"
+
+1459902392 f:\facultad\programacion1\trabajo practico 1\dorso.h
+
+1459955146 source:j:\facultad\programacion1\trabajo practico 1\dorso.c
+
+1459945824 source:j:\facultad\programacion1\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dorso.h"
+
+1459902392 j:\facultad\programacion1\trabajo practico 1\dorso.h
+
