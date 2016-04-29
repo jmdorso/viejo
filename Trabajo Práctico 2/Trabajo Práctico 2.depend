@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1461957550 source:d:\facu\progylab1\trabajo práctico 2\dorso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dorso.h"
+
+1461883360 source:d:\facu\progylab1\trabajo práctico 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dorso.h"
+
+1461884243 d:\facu\progylab1\trabajo práctico 2\dorso.h
+
