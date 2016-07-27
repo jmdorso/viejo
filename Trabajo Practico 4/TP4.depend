@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1469576311 source:d:\facu\progylab1\tp4\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1469567300 d:\facu\progylab1\tp4\arraylist.h
+
+1469580870 source:d:\facu\progylab1\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Avion.h"
+	"ArrayList.h"
+
+1469576365 source:d:\facu\progylab1\tp4\avion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Avion.h"
+	"ArrayList.h"
+
+1469572374 d:\facu\progylab1\tp4\avion.h
+
